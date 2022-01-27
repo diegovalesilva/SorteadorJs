@@ -1,0 +1,1 @@
+Sorteador Javascript que retorna um número inteiro entre dois valores dados. 
